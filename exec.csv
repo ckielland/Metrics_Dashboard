@@ -1,0 +1,21 @@
+Date,variable,value
+2021-01-01,Identify,2.1
+2021-07-01,Identify,2.3
+2022-01-01,Identify,2.5
+2022-07-01,Identify,2.5
+2021-01-01,Protect,1.8
+2021-07-01,Protect,2.0
+2022-01-01,Protect,2.1
+2022-07-01,Protect,2.3
+2021-01-01,Detect ,1.2
+2021-07-01,Detect ,1.6
+2022-01-01,Detect ,1.8
+2022-07-01,Detect ,1.8
+2021-01-01,Respond,2.5
+2021-07-01,Respond,2.9
+2022-01-01,Respond,3.1
+2022-07-01,Respond,3.4
+2021-01-01,Recover,1.0
+2021-07-01,Recover,1.1
+2022-01-01,Recover,1.1
+2022-07-01,Recover,1.2

@@ -1,0 +1,33 @@
+Date,variable,value
+1-Jan-21,AM.1 -  % assets having default passwords,25%
+1-Jul-21,AM.1 -  % assets having default passwords,22%
+1-Jan-22,AM.1 -  % assets having default passwords,20%
+1-Jul-22,AM.1 -  % assets having default passwords,15%
+1-Jan-21,AM.2 - % assets exploitable by a Novice,40%
+1-Jul-21,AM.2 - % assets exploitable by a Novice,38%
+1-Jan-22,AM.2 - % assets exploitable by a Novice,30%
+1-Jul-22,AM.2 - % assets exploitable by a Novice,28%
+1-Jan-21,AM.3 - % critical assets not to policy patch level by business unit,41%
+1-Jul-21,AM.3 - % critical assets not to policy patch level by business unit,43%
+1-Jan-22,AM.3 - % critical assets not to policy patch level by business unit,44%
+1-Jul-22,AM.3 - % critical assets not to policy patch level by business unit,44%
+1-Jan-21,AM.4 - % critical assets with malware kit or exploit,34%
+1-Jul-21,AM.4 - % critical assets with malware kit or exploit,36%
+1-Jan-22,AM.4 - % critical assets with malware kit or exploit,36%
+1-Jul-22,AM.4 - % critical assets with malware kit or exploit,38%
+1-Jan-21,AM.5 - % assets with certificate issues,19%
+1-Jul-21,AM.5 - % assets with certificate issues,21%
+1-Jan-22,AM.5 - % assets with certificate issues,22%
+1-Jul-22,AM.5 - % assets with certificate issues,22%
+1-Jan-21,AM.6 - % of assets discovered on the network having a record in the asset inventory,11%
+1-Jul-21,AM.6 - % of assets discovered on the network having a record in the asset inventory,11%
+1-Jan-22,AM.6 - % of assets discovered on the network having a record in the asset inventory,11%
+1-Jul-22,AM.6 - % of assets discovered on the network having a record in the asset inventory,12%
+1-Jan-21,AM.7 - % assets with critical data non compliant with norms/laws,21%
+1-Jul-21,AM.7 - % assets with critical data non compliant with norms/laws,22%
+1-Jan-22,AM.7 - % assets with critical data non compliant with norms/laws,22%
+1-Jul-22,AM.7 - % assets with critical data non compliant with norms/laws,23%
+1-Jan-21,AM.8 - % critical assets,41%
+1-Jul-21,AM.8 - % critical assets,41%
+1-Jan-22,AM.8 - % critical assets,41%
+1-Jul-22,AM.8 - % critical assets,42%

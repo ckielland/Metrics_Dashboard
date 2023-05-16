@@ -1,0 +1,9 @@
+Metric List,Value,Effectiveness,Coverage 
+AM.1 -  % assets having default passwords,15%,88%,86%
+AM.2 - % assets exploitable by a Novice,28%,92%,66%
+AM.3 - % critical assets not to policy patch level by business unit,44%,78%,83%
+AM.4 - % critical assets with malware kit or exploit,38%,66%,59%
+AM.5 - % assets with certificate issues,22%,74%,77%
+AM.6 - % of assets discovered on the network having a record in the asset inventory,12%,81%,75%
+AM.7 - % assets with critical data non compliant with norms/laws,23%,68%,73%
+AM.8 - % critical assets,42%,88%,95%
